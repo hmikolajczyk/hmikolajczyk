@@ -6,7 +6,7 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **💊 Medication Tracker** | Full-stack application for managing daily medications and tracking drug interactions | `Spring Boot` `Java` `MySQL` `JS` | 🛠️ In Development |
+| **💊 Medication Tracker** | Full-stack application for managing daily medications and tracking drug interactions |  | 🛠️ In Development |
 | [**🧠 Quiz App**](https://github.com/hmikolajczyk/quiz-app) | Interactive quiz application with dynamic questions and score tracking | `Java` | 🛠️ In Development |
 | [**📊 Email Counter**](https://github.com/hmikolajczyk/email-counter) | Application for analyzing and counting emails with date range calculations and CSV export | `C#` `.NET` | ✅ Completed |
 
